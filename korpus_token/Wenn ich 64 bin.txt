@@ -1,0 +1,7 @@
+['Wenn', 'ich', 'mal', 'alt', 'bin', ',', 'die', 'Haare', 'sind', 'futsch', 'im', 'Jahr', '2010', ',', 'wirst', 'du', 'dann', 'immer', 'noch', 'bei', 'mir', 'sein', '?']
+['Uh', ',', 'das', 'fänd', "'", 'ich', 'schön', '.']
+['Wenn', 'ich', 'senil', 'bin', ',', 'mit', "'m", 'riesigen', 'Bauch', 'und', "'nem", 'schönen', 'Doppelkinn', ',', 'wirst', 'du', 'mich', 'lieben', ',', 'immer', 'noch', 'lieben', ',', 'wenn', 'ich', 'vierundsechzig', 'bin', '?']
+['Wenn', 'ich', 'am', 'Tag', 'nur', 'noch', 'zwei', 'Schnäpse', 'vertrag', "'", 'und', 'nur', 'noch', 'einmal', 'im', 'Monat', 'bumsen', 'mag', ',', 'wirst', 'du', 'mich', 'lieben', ',', 'immer', 'noch', 'lieben', ',', 'wenn', 'ich', 'vierundsechzig', 'bin', '?']
+['Jeden', 'Sommer', 'mieten', 'wir', 'uns', 'ein', 'Häuschen', 'auf', 'Sylt', ',', 'die', 'Enkel', 'kommen', 'uns', 'besuchen', ',', 'ich', 'spiel', "'", 'mit', 'denen', 'am', 'Strand', ',', 'bau', "'", "'ne", 'Burg', 'aus', 'Sand', ',', 'und', 'du', 'backst', 'den', 'Haschischkuchen', '.']
+['Wenn', 'ich', 'mal', 'alt', 'bin', ',', 'ich', 'geh', "'", 'am', 'Stock', ',', 'und', 'in', 'den', 'Knien', 'ganz', 'weich', ',', 'wenn', 'ich', 'dann', 'mit', 'glänzendem', 'Nostalgie-Blick', 'am', 'Onkel', 'Pö', 'vorüberschleich', "'", ',', 'wirst', 'du', 'dann', 'sagen', ':', '``', 'Alter', ',', 'keine', 'Panik', ',', 'für', 'mich', 'bist', 'du', 'immer', 'noch', 'der', 'King', "''", '?']
+['Wirst', 'du', 'mich', 'lieben', ',', 'immer', 'noch', 'lieben', ',', 'wenn', 'ich', 'vierundsechzig', 'bin', '?']

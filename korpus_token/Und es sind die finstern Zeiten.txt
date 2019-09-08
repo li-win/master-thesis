@@ -1,0 +1,6 @@
+['Und', 'es', 'sind', 'die', 'finsteren', 'Zeiten', 'in', 'der', 'anderen', 'Stadt', '.']
+['Doch', 'es', 'bleibt', 'beim', 'leichten', 'Schreiten', 'und', 'die', 'Stirn', 'ist', 'glatt', '.']
+['Harte', 'Menschheit', ',', 'unbewegt', '.']
+['Lang', "erfror'nem", 'Fischvolk', 'gleich', '.']
+['Doch', 'das', 'Herz', 'bleibt', 'schnell', 'geregt', '.']
+['Und', 'das', 'Lächeln', 'weich', '.']

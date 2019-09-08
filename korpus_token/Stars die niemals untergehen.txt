@@ -1,0 +1,8 @@
+['Jetzt', 'bist', 'du', 'weg', 'zu', 'fernen', 'Ufern', ',', 'du', 'kannst', 'doch', 'nicht', 'so', 'einfach', 'gehen', '.']
+['Bist', 'auf', 'der', 'Reise', 'zu', 'den', 'Inseln', ',', 'die', 'auf', 'keiner', 'Karte', 'stehen', '.']
+['Irgendwo', 'am', 'Pazifik', ',', 'so', 'unvorstellbar', 'weit', '.']
+['Mit', 'deinem', 'kleinen', 'Koffer', 'unterwegs', 'in', 'Richtung', 'Ewigkeit', '.']
+['Ich', 'will', 'dich', 'oft', 'anrufen', 'und', 'greif', "'", 'zum', 'Telefon', '.']
+['Ich', 'wähl', "'", 'die', 'alte', 'Nummer', ',', 'weiß', ',', 'du', 'gehst', 'nicht', 'ran', ',', 'doch', 'wer', 'begreift', 'das', 'schon', '.']
+['Straßen', 'ohne', 'Namen', ',', 'und', 'Häuser', ',', 'die', 'da', 'nicht', 'mehr', 'stehen', '.']
+['Jetzt', 'wohnst', 'du', 'draußen', 'bei', 'den', 'Sternen', ',', 'Stars', ',', 'die', 'niemals', 'untergehen', '.']

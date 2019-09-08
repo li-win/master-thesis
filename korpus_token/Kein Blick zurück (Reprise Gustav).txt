@@ -1,0 +1,8 @@
+['Zeitbomben', 'sind', 'nicht', 'mehr', 'zu', 'bremsen', ',', 'wenn', 'der', 'Sekundenzeiger', 'rennt', '.']
+['Und', 'die', 'Wahrheit', 'gilt', 'auch', 'dann', 'schon', ',', 'wenn', 'noch', 'keiner', 'sie', 'erkennt', '.']
+['Die', 'Wahrheit', 'gilt', 'auch', 'dann', 'schon', ',', 'wenn', 'noch', 'keiner', 'sie', 'erkennt', '.']
+['Nie', 'wieder', 'leises', ',', 'banges', 'Hoffen', '.']
+['Nie', 'wieder', 'warten', ',', 'stumm', 'und', 'klein', '.']
+['Du', 'warst', 'doch', 'lang', 'genug', 'das', 'Opfer', ',', 'jetzt', 'wirst', 'du', 'der', 'Täter', 'sein', '.']
+['Arme', 'Seele', '-', 'alles', 'Pleite', '?']
+['Komm', 'doch', 'rüber', 'auf', 'die', 'Sonnenseite', '!']

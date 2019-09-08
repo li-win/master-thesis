@@ -1,0 +1,7 @@
+['Wie', "'", 'n', 'Planet', 'um', 'dich', 'rum', 'herumkreisen', ',', 'hab', "'", 'gedacht', 'du', 'die', 'Sonne', ',', 'meine', 'Sonne', ',', 'hell', 'und', 'warm', 'und', 'nie', 'Nacht', 'hinter', 'meinem', 'Horizont', ',', 'nur', "'ne", 'steile', 'Absturzwand', ',', 'ohne', 'dich', 'geht', "'s", 'nicht', 'weiter', ',', 'alles', 'Ende', ',', 'Niemandsland', '.']
+['Und', 'du', 'sagtest', ':', '``', 'Es', 'wird', 'immer', 'alles', 'nur', 'noch', 'besser', "''", 'und', 'ich', 'rannte', 'voll', 'ins', 'Messer', '.']
+['Telefone', ',', 'keine', 'Antwort', ',', 'ich', 'am', 'Durchdreh', "'", 'n', ',', 'du', 'nicht', 'da', '.']
+['Ich', 'auf', 'Horror', ',', 'ich', 'in', 'Panik', ',', 'nur', 'Generve', "'", 'n', 'halbes', 'Jahr', '.']
+['Denn', 'Planeten', 'ohne', 'Sonne', ',', 'sie', 'erlöschen', 'kalt', 'und', 'tot', ',', 'geh', "'", 'n', 'verloren', ',', 'geh', "'", 'n', 'unter', 'und', 'kein', 'Morgenrot', '.']
+['Und', 'ich', 'sag', 'dir', ':', 'Es', 'wird', 'alles', 'immer', 'nur', 'noch', 'besser', ',', 'nie', 'wieder', 'renn', "'", 'ich', 'voll', 'ins', 'Messer', '.']
+['Ich', 'bin', 'selber', 'die', 'Sonne', 'jetzt', ',', 'die', 'durch', 'die', 'Himmel', 'fetzt', '.']

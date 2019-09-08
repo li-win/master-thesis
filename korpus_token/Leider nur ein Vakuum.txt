@@ -1,0 +1,7 @@
+['Freitags', 'abends', 'steckt', 'er', 'sich', 'hundert', 'Mark', 'und', "'ne", 'Zahnbürste', 'ein', ',', 'er', 'zieht', 'sich', 'die', 'schnellen', 'Stiefel', 'an', ',', 'das', 'ist', 'ein', 'gutes', 'Gefühl', ',', 'frei', 'zu', 'sein', '.']
+['Bis', 'Montagmorgen', 'rennt', 'er', 'rum', ',', 'zwischendurch', 'kommt', 'er', 'nicht', 'mehr', 'nach', 'Haus', ',', 'er', 'sieht', 'sich', 'auf', 'der', 'Szene', 'um', 'und', 'nachts', 'probiert', 'er', 'fremde', 'Betten', 'aus', '.']
+['Normalerweise', 'läuft', 'das', 'sehr', 'gut', ',', 'doch', 'manchmal', 'gibt', 'es', 'auch', "'ne", 'Pleite', ',', 'dann', 'wacht', 'er', 'morgens', 'auf', 'und', 'Lady', 'Horror', 'liegt', 'an', 'seiner', 'Seite', '.']
+['Ihr', 'Make-up', 'ist', 'verschmiert', ',', 'die', 'Sonne', 'scheint', 'ihr', 'brutal', 'ins', 'Gesicht', 'und', 'dass', 'ihm', 'so', 'was', 'immer', 'noch', 'passiert', ',', 'das', 'liegt', 'am', 'Suff', 'und', 'am', 'dunklen', 'Kneipenlicht', '.']
+['Er', 'geht', 'in', 'die', 'Madman-Discothek', ',', 'da', 'soll', 'die', 'große', 'Action', 'sein', '.']
+['Da', 'sind', 'zwar', 'jede', 'Menge', 'Leute', ',', 'doch', 'er', 'fühlt', 'sich', 'trotzdem', 'sehr', 'allein', '.']
+['Die', 'Musik', 'ist', 'laut', ',', 'und', 'die', 'Leute', 'sind', 'stumm', ',', 'die', 'hängen', 'da', 'rum', ',', 'und', 'manche', 'gucken', 'sehr', 'dumm', ',', 'so', ',', 'als', 'hätten', 'sie', 'in', 'ihren', 'schönen', 'Köpfen', 'leider', 'nur', 'ein', 'Vakuum', '.']

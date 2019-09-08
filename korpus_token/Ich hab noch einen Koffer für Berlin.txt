@@ -1,0 +1,5 @@
+['Wunderschön', 'ist', "'s", 'in', 'New', 'York', ',', 'wenn', 'die', 'Türme', 'wieder', 'steh', "'", 'n', ',', 'kannst', 'von', 'ganz', 'hoch', 'oben', 'weit', 'bist', 'nach', 'Bagdad', 'sehn', ',', 'Kinder', ',', 'die', 'lachen', 'und', 'kein', 'Hunger', 'und', 'das', 'Erdöl', 'schießt', 'aus', 'dem', 'Boden', ',', 'der', 'allen', 'gehört', ',', 'dass', 'endlich', 'Frieden', 'ist', '.']
+['Ich', 'hab', "'", 'noch', 'einen', 'Koffer', 'für', 'Berlin', 'und', 'da', 'sind', 'solche', 'schönen', 'Träume', 'drin', '.']
+['Die', 'Seligkeiten', 'moderner', 'Zeiten', ',', 'die', 'sind', 'alle', 'in', 'diesem', 'kleinen', 'Koffer', 'drin', '.']
+['Ich', 'hab', "'", 'noch', 'einen', 'Koffer', 'für', 'Berlin', ',', 'die', 'Bibel', 'und', "'", 'n', 'Koran', ',', 'die', 'liegen', 'da', 'drin', ',', 'wir', 'schreiben', 'das', 'um', 'ganz', 'flott', ':', 'es', 'gibt', 'nicht', 'mehr', 'nur', 'einen', 'Gott', '.']
+['Komm', 'greif', 'dir', 'den', 'Koffer', 'und', 'lass', 'uns', 'in', 'der', 'Welt', 'rumzieh', "'", 'n', '.']

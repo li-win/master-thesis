@@ -1,0 +1,2 @@
+['Goodbye', ',', 'Norma', 'Jean', ',', 'ich', 'habe', 'dich', 'nie', 'gekannt', ',', 'als', 'du', 'gegangen', 'bist', ',', 'da', 'war', 'ich', 'noch', 'ein', 'Kind', '.']
+['Und', 'jetzt', 'frag', 'ich', 'den', 'Pförtner', 'vom', 'Filmatelier', ',', 'ob', 'er', 'mir', 'sagen', 'kann', ',', 'wo', 'ich', 'deine', 'Spuren', 'find', "'", '.']

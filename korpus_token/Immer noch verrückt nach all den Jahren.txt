@@ -1,0 +1,7 @@
+['Ich', 'traf', 'sie', 'wieder', 'letzte', 'Nacht', '-', 'wir', 'haben', 'uns', 'sehr', 'gefreut', '.']
+['Zehn', 'Jahre', 'hatten', 'wir', 'uns', 'nicht', 'mehr', 'gesehen', 'und', 'ich', 'goss', 'ihr', 'Drinks', 'ins', 'Dekolleté', 'und', 'wühlte', 'wild', 'in', 'ihren', 'Haaren', 'und', 'sie', 'sagte', ':', '``', 'Du', 'bist', 'ja', 'immer', 'noch', 'so', 'verrückt', ',', 'immer', 'noch', 'crazy', 'nach', 'all', 'den', 'Jahren', '.', "''"]
+['Am', 'nächsten', 'Nachmittag', 'hab', "'", 'ich', 'sie', 'besucht', 'auf', "'", 'n', 'Tee', ',', 'ihr', 'Mann', 'ist', 'der', 'Kaffeekönig', 'von', 'der', 'Elbchaussee', '.']
+['Doch', 'dann', 'bin', 'ich', 'mit', 'ihren', 'Teeny-Töchtern', 'so', 'richtig', 'abgefahren', 'und', 'sie', 'schmiss', 'mich', 'raus', '.']
+['Ich', 'wäre', 'zu', 'verrückti', ',', 'immer', 'noch', 'crazy', 'nach', 'all', 'den', 'Jahren', '.']
+['Und', 'wenn', 'ich', 'sechzig', 'bin', ',', 'bin', 'ich', 'zwar', 'ein', 'graumelierter', 'Rock-Opa', 'wenn', "'s", 'geht', ',', 'ohne', 'Kalkwerk', 'im', 'Kopf', '.']
+['Und', 'dann', 'spring', 'ich', 'auf', 'die', 'Bühne', 'und', 'zeig', "'", 'den', 'Jungs', ',', 'wie', 'wild', 'die', 'Siebziger', 'war', "'", 'n', 'und', 'sie', 'sagen', ':', '``', 'Ganz', 'schön', 'verrückt', ',', 'immer', 'noch', 'crazy', ',', 'crazy', ',', 'immer', 'noch', 'crazy', 'nach', 'all', 'den', 'Jahren', '.', "''"]

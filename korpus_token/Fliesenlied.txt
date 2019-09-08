@@ -1,0 +1,4 @@
+['Du', 'sangst', 'lange', 'genug', 'in', 'der', 'Badewanne', 'und', 'dein', 'Vibrato', 'tropfte', 'von', 'den', 'Fliesen', ',', 'doch', 'jetzt', 'wasch', 'es', 'ab', ',', 'das', 'Zurückhaltefeeling', 'in', 'den', 'Abfluss', 'mit', 'den', 'Komplexen', ',', 'diesen', 'miesen', '.']
+['Jerry', 'Lee', 'Lewis', 'zündet', 'auch', 'kein', 'Klavier', 'mehr', 'an', 'und', 'die', 'Undergroundhelden', ',', 'die', 'wüsten', ',', 'jetzt', 'sind', 'sie', 'zahm', 'und', 'die', 'Himbeerbubenkapellen', ',', 'die', 'sind', 'mir', 'zu', 'lahm', '.']
+['Komm', ',', 'wir', 'müssen', 'mal', 'wieder', 'richtig', 'den', 'Original-Orkan', 'loslassen', '.']
+['Ey', ',', 'was', 'meinst', 'du', '?']

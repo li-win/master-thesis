@@ -1,0 +1,5 @@
+['``', 'Guten', 'Tag', ',', 'Herr', 'Filmproduzent', ',', 'haben', 'Sie', 'mal', 'fünf', 'Minuten', 'Zeit', 'für', 'mich', '?']
+['Sagen', 'Sie', ',', 'dass', 'ich', 'noch', 'nicht', 'beim', 'Film', 'bin', ',', 'finden', 'Sie', 'das', 'nicht', 'auch', 'bedauerlich', 'bei', 'meinem', 'Talent', '?', "''"]
+['Da', 'sagt', 'er', ':', '``', 'Moment', 'mal', ',', 'bei', 'Ihrem', 'Gesicht', 'werden', 'die', 'Mütter', 'sagen', ':', '``', 'Kind', ',', 'der', 'hat', 'ja', "'ne", 'Fresse', 'zum', 'Reinschlagen', '.']
+['Abgesehen', 'von', 'dem', 'bisschen', 'Sex-Appeal', 'haben', 'Sie', 'nicht', 'viel', 'von', 'dem', ',', 'was', 'ein', 'Schauspieler', 'braucht', '.', "''"]
+['Ich', 'sag', "'", ':', '``', 'Ich', 'könnt', "'", 'ja', 'zur', 'Not', 'auch', 'inkognito', 'mal', 'ein', 'Drehbuch', 'schreiben', 'für', "'ne", 'Wahnsinnsshow', 'über', 'Terri', 'Terror', 'und', 'Anna', 'Anarcho', 'und', 'deren', 'Flugzeugentführung', 'nach', 'Addis', 'Abeba', 'nach', 'Beirut', 'oder', 'nach', 'Jemen', 'und', 'ich', 'schwör', "'", 'Ihnen', ',', 'das', 'Publikum', 'weint', 'vor', 'Rührung', ',', 'wenn', 'Sie', 'Inge', 'Meisel', 'als', 'Geisel', 'nehmen', '.', "''"]

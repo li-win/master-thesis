@@ -8,7 +8,7 @@ from google.cloud.language import enums
 from google.cloud.language import types
 
 #authentication
-credential_path = "E:\lisa-\OneDrive\Giessen\Masterarbeit\My Project-eb1d60dd1658.json"
+credential_path = "..."
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credential_path
 
 sentiment_list = []

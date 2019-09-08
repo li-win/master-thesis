@@ -1,0 +1,2 @@
+['Die', 'größte', 'Liebe', 'meines', 'Lebens', 'kann', 'ich', 'nicht', 'vergessen', ',', 'ich', 'kann', 'tun', ',', 'was', 'ich', 'will', ',', 'doch', 'ich', 'finde', 'keine', 'Ruh', "'", '.']
+['Die', 'größte', 'Liebe', 'meines', 'Lebens', 'wohnt', 'so', 'tief', 'in', 'meinem', 'Herzen', 'und', 'diese', 'Liebe', ',', 'diese', 'Liebe', ',', 'das', 'bist', 'du', '.']

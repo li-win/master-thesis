@@ -1,0 +1,6 @@
+['Man', 'muss', 'schon', 'Schnaps', 'getrunken', 'haben', ',', 'Eh', 'man', 'vor', 'deinem', 'Leibe', 'stand', ',', 'Sonst', 'schwankt', 'man', 'ob', 'der', 'trunknen', 'Gaben', ',', 'Von', 'schwachen', 'Knien', 'übermannt', '.']
+['Oh', 'du', ',', 'wenn', 'im', 'Gesträuche', 'kreisend', ',', 'Der', 'Wind', 'die', 'Röcke', 'flattern', 'läßt', 'Und', 'man', ',', 'das', 'weiche', 'Tuch', 'zerreissend', ',', 'Die', 'Knie', 'zwischen', 'Deine', 'presst', '.']
+['Den', 'Abendhimmel', 'macht', 'das', 'Saufen', 'Sehr', 'dunkel', ',', 'manchmal', 'violett', ',', 'Dazu', 'dein', 'Leib', 'im', 'Hemd', 'zum', 'Raufen', 'In', 'einem', 'breiten', 'weißen', 'Bett', '.']
+['Die', 'Wiese', 'schwankt', 'nicht', 'nur', 'vom', 'Trinken', ',', 'Wenn', 'man', 'in', 'Deinen', 'Knien', 'liegt', '.']
+['Der', 'dunkle', 'Himmel', 'will', 'versinken', ',', 'Indem', 'er', 'sanft', 'sich', 'schneller', 'wiegt', '.']
+['Und', 'deine', 'weichen', 'Knie', 'schaukeln', 'Mein', 'wildes', 'Herz', 'in', 'deine', 'Ruh', ',', 'Und', 'zwischen', 'Erd', 'und', 'Himmel', 'schaukeln', 'Wir', 'leichtgeschwellt', 'der', 'Hölle', 'zu', '.']

@@ -6,3 +6,7 @@ Die Codes sollten mit den vorinstallierten Bibliotheken und den Textdateien fehl
 Der Code der Google Cloud Natural Language API benötigt außerdem einen Authentifikationsschlüssel, weshalb es womöglich nicht ausführbar ist. Da der Schlüssel personalisiert ist, kann ich diesen nicht zur Verfügung stellen.
 
 Die Webanno.zip Datei enthält die Texte, die mit Webanno manuell annotiert wurden (Sentiment und Aspekt).
+
+
+Lisa Winkler
+lisa-winkler@outlook.de

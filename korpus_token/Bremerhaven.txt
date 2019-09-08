@@ -1,0 +1,3 @@
+['Das', 'große', 'Schiff', 'legt', 'ab', 'vom', 'Kai', ',', 'das', 'Emigrantenschiff', ',', 'Hermine', '...', 'Hermine', 'ist', 'dabei', '.']
+['Ein', 'letzter', 'Blick', ',', 'ein', 'letzter', 'Blick', 'zurück', 'auf', 'ihr', 'Land', '.']
+['Deutschland', 'verschwindet', 'hinter', 'einer', 'Nebelwand', '.']

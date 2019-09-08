@@ -1,0 +1,3 @@
+['Er', 'war', 'ein', 'Dirigent', ',', 'ein', 'großer', 'Dirigent', ',', 'so', 'berühmt', 'wie', 'Herbert', 'von', 'Karajan', '.']
+['Wenn', 'er', 'den', 'Taktstock', 'in', 'seine', 'Hände', 'nahm', ',', 'dann', 'hielt', 'das', 'Publikum', 'den', 'Atem', 'an', '.']
+['Das', 'Orchester', 'war', 'getrimmt', 'und', 'bestens', 'eingestimmt', ',', 'ein', 'letzter', 'Blick', 'auf', 'die', 'Partitur', ',', 'der', 'Frack', 'saß', 'exzellent', 'und', 'nun', 'begann', 'der', 'Dirigent', 'mit', 'seiner', 'Chaos-Symphonie', 'in', 'Atom-Dur', '.']

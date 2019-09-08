@@ -1,0 +1,5 @@
+['Nur', 'noch', 'ein', 'paar', 'Jahre', ',', 'dann', 'siehst', 'du', 'Menschen', 'mit', "'ner", 'Seriennummer', 'auf', 'der', 'Stirn', ',', 'Chemikalien', 'in', 'den', 'Adern', ',', 'künstliches', 'Gehirn', '.']
+['sie', 'erzeugen', 'im', 'Labor', 'einen', 'kompletten', 'Kirchenchor', 'und', 'das', 'Team', 'für', 'den', 'Flug', 'nach', 'Alpha', 'Centauri', '.']
+['Biochemon', '-', 'Zukunftsdämon', '.']
+['Gar', 'nicht', 'mehr', 'so', 'lange', ',', 'dann', 'lachen', 'wir', 'über', 'Frankensteins', 'Stümpereien', ',', 'genau', 'nach', 'Plan', '-', 'wie', 'auf', 'einer', 'Hühnchenfarm', ',', 'Menschenproduktion', ',', 'Retortenkinder', ',', 'was', 'wird', 'aus', 'euch', '?']
+['Arbeitsmänner', '-', 'Freizeitfrauen', ',', 'werdet', 'ihr', 'Sklaven', 'sein', 'oder', 'bringt', 'ihr', 'uns', 'alle', 'um', '?']
